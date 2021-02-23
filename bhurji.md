@@ -29,4 +29,4 @@ aka indian scrambled eggs. serves two.
 * garam masala can be used as well if available.
 * break the tomatoes while sautéeing if they're too large.
 
-! (https://github.com/neelushah02/recipes/blob/main/images/bhurji.jpeg)
+![bhurji photo](https://github.com/neelushah02/recipes/blob/main/images/bhurji.jpeg)
